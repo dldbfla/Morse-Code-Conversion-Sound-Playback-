@@ -1,5 +1,6 @@
 # Morse-Code-Conversion-Sound-Playback-
 Morse code conversion/sound playback (save as mp3) 
+![스크린샷 2024-03-11 100011](https://github.com/dldbfla/Morse-Code-Conversion-Sound-Playback-/assets/89433437/2ff2f828-7941-4300-b048-9f064b8ef43d)
 
 ## Description. 
 
